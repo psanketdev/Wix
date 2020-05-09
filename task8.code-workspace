@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/var/www/html/Sanket/html/Task_7"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "prdxn-dev-framework"
+	}
+}
